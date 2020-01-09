@@ -1,0 +1,15 @@
+.content{
+  grid-area: c;
+  display: grid;
+}
+
+.horizont img{
+  width: 100%;
+  height: 250px;
+}
+.avatar{
+  display: flex;
+}
+.avatar img{
+  width: 250px;
+}
