@@ -16,16 +16,7 @@ const Content = () => {
          <p>Info</p>
        </div> 
      </div>
-
-     <div>
-       <h2>New posts</h2>
-     </div>
-
-     <div className={classes.posts}>
-       <p className={classes.item}>Post 1</p>
-       <p className={classes.item}>Post 2</p>
-       <p className={classes.item}>Post 3</p>
-     </div>
+     
   </div>);
 }
 export default Content;
